@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: -apple-system, system-ui, BlinkMacSystemFont;
+  font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
   transition: all 0.4s cubic-bezier(0.18, 0.87, 0.54, 1.03);
 }
 
