@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Open Sans', sans-serif;
+  font-family: -apple-system, system-ui, BlinkMacSystemFont;
   transition: all 0.4s cubic-bezier(0.18, 0.87, 0.54, 1.03);
 }
 
@@ -102,8 +102,8 @@ p {
 }
 
 .link-name {
-  font-weight: 300;
-  font-size: 1.75em;
+	font-weight: 400;
+	font-size: 1.75em;
 }
 
 /* .bottom-line {
